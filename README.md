@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/161ccd76-46b9-418d-9345-7436899c5f0f" alt="Norvyz Logo" width="180"/>
+<img src="https://github.com/user-attachments/assets/e4730b17-10f0-4062-8847-1f36ee209b33" alt="Norvyz Logo" width="180"/>
 
 # ¡Hola! Soy Norvyz
 
